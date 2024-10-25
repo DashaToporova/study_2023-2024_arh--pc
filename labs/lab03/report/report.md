@@ -87,16 +87,19 @@ header-includes:
 
 ![обновление локального репозитория](image/s1.jpg){#fig:001 width=70%}
 
-![созданные файлы](image/s2.jpg){#fig:001 width=70%}
+![созданные файлы](image/s2.jpg){#fig:002 width=70%}
 
 1.2  Удаляем полученный файлы с использованием Makefile. (рис. [-@fig:003]).
 
-![удаляем файл report.pdf](image/s3.jpg){#fig:002 width=70%}
+![удаляем файл report.pdf](image/s3.jpg){#fig:003 width=70%}
 
 1.3 Заполняем отчёт с использованием Makefile. (рис. [-@fig:004]).
 
-![отчёт](image/s4.jpg){#fig:003 width=70%}
+![отчёт](image/s4.jpg){#fig:004 width=70%}
 
+1.4 загружаем файлы на github(рис. [-@fig:005]).
+
+![загружаем на github](image/s5.jpg){#fig:005 width=70%}
 
 # Выводы
 
